@@ -25,8 +25,8 @@ npm run start
 **When done**
 
 3. Open your LLM of choice (Mistral, ChatGPT, DeepSeek, Claude)
-4. Start a new chat with the contents of `prompt.md`
-5. Attach `posts-data.json` 
+4. Start a new chat with the contents of [prompt.md](prompt.js)
+5. Attach [posts-data.json](posts-data.json)
 
 
 ## Authentication & Security
