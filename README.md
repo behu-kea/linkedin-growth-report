@@ -25,7 +25,7 @@ npm run start
 **When done**
 
 3. Open your LLM of choice (Mistral, ChatGPT, DeepSeek, Claude)
-4. Start a new chat with the contents of [prompt.md](prompt.md)
+4. Start a new chat with the contents of [prompt.md](https://raw.githubusercontent.com/behu-kea/linkedin-growth-report/refs/heads/main/prompt.md)
 5. Attach [posts-data.json](posts-data.json)
 
 
