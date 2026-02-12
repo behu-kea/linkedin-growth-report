@@ -1,6 +1,6 @@
-# LinkedIn Post Scraper
+# Personal LinkedIn Growth Advice
 
-Easily scrape data from your best performing LinkedIn posts including text, images, engagement metrics (likes, comments, reposts), impressions, and posting time.
+Get a personalized LinkedIn growth report that will help you improve your LinkedIn game 😎
 
 ## Setup
 
@@ -28,25 +28,6 @@ npm run start
 4. Start a new chat with the contents of `prompt.md`
 5. Attach `posts-data.json` 
 
-You'll get:
-- Engagement analysis
-- Content performance patterns
-- Audience psychology insights
-- Specific recommendations on what works
-- Ideas for future posts tailored to your audience
-
-This tool does the scraping; ChatGPT does the analysis. Together they tell you exactly what content resonates with your audience.
-
-## How it Works
-
-### `npm run start`
-
-Main entry point that orchestrates the entire pipeline:
-
-- Downloads HTML from your LinkedIn analytics page
-- Extracts post links
-- Scrapes each post for data
-- Generates `posts-data.json`
 
 ## Authentication & Security
 
